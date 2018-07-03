@@ -5,7 +5,7 @@
 
 .. figure:: img/odp-components.*
 
-   OpenDataPlane Components
+   Figure 2. OpenDataPlane Components
    
 **ODP API 规范**
 
